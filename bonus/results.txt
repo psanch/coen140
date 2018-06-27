@@ -1,0 +1,21 @@
+
+a)
+Training Error:
+0.0802610114192
+Testing Error:
+0.0826822916667
+
+Alpha Used: 1e-13
+b)
+Training Error:
+0.600652528548
+Testing Error:
+0.616536458333
+
+Alpha Used: 1e-08
+c)
+Training Error:
+0.0959216965742
+Testing Error:
+0.08203125
+[Finished in 105.3s]

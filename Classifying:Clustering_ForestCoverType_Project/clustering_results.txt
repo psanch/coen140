@@ -1,0 +1,273 @@
+
+
+...
+k = 2
+	Training sum of euclidean distances: 1573924.68304
+	 Testing sum of euclidean distances: 1.44928747292e+12
+k = 3
+	Training sum of euclidean distances: 1183732.3664
+	 Testing sum of euclidean distances: 1.09995437717e+12
+k = 4
+	Training sum of euclidean distances: 963090.192427
+	 Testing sum of euclidean distances: 779257171774.0
+k = 5
+	Training sum of euclidean distances: 807983.625086
+	 Testing sum of euclidean distances: 645754210435.0
+k = 6
+	Training sum of euclidean distances: 693800.480166
+	 Testing sum of euclidean distances: 584388778615.0
+k = 7
+	Training sum of euclidean distances: 607154.226887
+	 Testing sum of euclidean distances: 503944676442.0
+k = 8
+	Training sum of euclidean distances: 554403.92568
+	 Testing sum of euclidean distances: 444728410018.0
+k = 9
+	Training sum of euclidean distances: 503988.958761
+	 Testing sum of euclidean distances: 428809835982.0
+k = 10
+	Training sum of euclidean distances: 467972.70377
+	 Testing sum of euclidean distances: 381654824022.0
+k = 11
+	Training sum of euclidean distances: 435333.352842
+	 Testing sum of euclidean distances: 362995670434.0
+k = 12
+	Training sum of euclidean distances: 410558.996468
+	 Testing sum of euclidean distances: 340576706233.0
+k = 13
+	Training sum of euclidean distances: 388152.805358
+	 Testing sum of euclidean distances: 312597377492.0
+k = 14
+	Training sum of euclidean distances: 369363.792637
+	 Testing sum of euclidean distances: 299124750974.0
+k = 15
+	Training sum of euclidean distances: 351241.860848
+	 Testing sum of euclidean distances: 275321064071.0
+k = 16
+	Training sum of euclidean distances: 334650.072209
+	 Testing sum of euclidean distances: 274154316949.0
+k = 17
+	Training sum of euclidean distances: 319152.684311
+	 Testing sum of euclidean distances: 254343349749.0
+k = 18
+	Training sum of euclidean distances: 305383.95045
+	 Testing sum of euclidean distances: 242202334683.0
+k = 19
+	Training sum of euclidean distances: 294417.156381
+	 Testing sum of euclidean distances: 229892663361.0
+k = 20
+	Training sum of euclidean distances: 284596.12937
+	 Testing sum of euclidean distances: 221363035343.0
+k = 21
+	Training sum of euclidean distances: 275689.510601
+	 Testing sum of euclidean distances: 218162284212.0
+k = 22
+	Training sum of euclidean distances: 268699.683976
+	 Testing sum of euclidean distances: 216616372853.0
+k = 23
+	Training sum of euclidean distances: 259531.581419
+	 Testing sum of euclidean distances: 204159016125.0
+k = 24
+	Training sum of euclidean distances: 252039.046763
+	 Testing sum of euclidean distances: 201283367423.0
+k = 25
+	Training sum of euclidean distances: 244469.160876
+	 Testing sum of euclidean distances: 194592761106.0
+k = 26
+	Training sum of euclidean distances: 240147.952834
+	 Testing sum of euclidean distances: 192669448298.0
+k = 27
+	Training sum of euclidean distances: 233225.629196
+	 Testing sum of euclidean distances: 184592508630.0
+k = 28
+	Training sum of euclidean distances: 228816.809905
+	 Testing sum of euclidean distances: 181553026650.0
+k = 29
+	Training sum of euclidean distances: 223427.169447
+	 Testing sum of euclidean distances: 181962440329.0
+k = 30
+	Training sum of euclidean distances: 219939.633401
+	 Testing sum of euclidean distances: 179785420216.0
+k = 31
+	Training sum of euclidean distances: 215922.321633
+	 Testing sum of euclidean distances: 177426807297.0
+k = 32
+	Training sum of euclidean distances: 211029.617736
+	 Testing sum of euclidean distances: 173198402793.0
+k = 33
+	Training sum of euclidean distances: 207944.289919
+	 Testing sum of euclidean distances: 170130122879.0
+k = 34
+	Training sum of euclidean distances: 203609.192451
+	 Testing sum of euclidean distances: 164853959789.0
+k = 35
+	Training sum of euclidean distances: 200202.181514
+	 Testing sum of euclidean distances: 162880877530.0
+k = 36
+	Training sum of euclidean distances: 196470.749931
+	 Testing sum of euclidean distances: 163224655767.0
+k = 37
+	Training sum of euclidean distances: 193981.609371
+	 Testing sum of euclidean distances: 159325010407.0
+k = 38
+	Training sum of euclidean distances: 189686.314816
+	 Testing sum of euclidean distances: 155447643393.0
+k = 39
+	Training sum of euclidean distances: 187413.906648
+	 Testing sum of euclidean distances: 154036142479.0
+k = 40
+	Training sum of euclidean distances: 183901.126036
+	 Testing sum of euclidean distances: 149561163601.0
+k = 41
+	Training sum of euclidean distances: 181299.368507
+	 Testing sum of euclidean distances: 151917596136.0
+k = 42
+	Training sum of euclidean distances: 178105.214763
+	 Testing sum of euclidean distances: 147942219298.0
+k = 43
+	Training sum of euclidean distances: 175520.166477
+	 Testing sum of euclidean distances: 142441624382.0
+k = 44
+	Training sum of euclidean distances: 173978.529666
+	 Testing sum of euclidean distances: 144577502400.0
+k = 45
+	Training sum of euclidean distances: 170866.477519
+	 Testing sum of euclidean distances: 138270078340.0
+k = 46
+	Training sum of euclidean distances: 169093.389462
+	 Testing sum of euclidean distances: 141120262983.0
+k = 47
+	Training sum of euclidean distances: 165833.348529
+	 Testing sum of euclidean distances: 140769195201.0
+k = 48
+	Training sum of euclidean distances: 162798.59991
+	 Testing sum of euclidean distances: 136585224151.0
+k = 49
+	Training sum of euclidean distances: 160865.352131
+	 Testing sum of euclidean distances: 133978594160.0
+k = 50
+	Training sum of euclidean distances: 159324.088124
+	 Testing sum of euclidean distances: 130325188253.0
+k = 51
+	Training sum of euclidean distances: 157178.996307
+	 Testing sum of euclidean distances: 132504502002.0
+k = 52
+	Training sum of euclidean distances: 155319.568042
+	 Testing sum of euclidean distances: 129036540463.0
+k = 53
+	Training sum of euclidean distances: 154047.440291
+	 Testing sum of euclidean distances: 131885048347.0
+k = 54
+	Training sum of euclidean distances: 151412.105221
+	 Testing sum of euclidean distances: 126249125216.0
+k = 55
+	Training sum of euclidean distances: 149748.588749
+	 Testing sum of euclidean distances: 123276643258.0
+k = 56
+	Training sum of euclidean distances: 148552.200484
+	 Testing sum of euclidean distances: 120133406765.0
+k = 57
+	Training sum of euclidean distances: 146748.707556
+	 Testing sum of euclidean distances: 122672352049.0
+k = 58
+	Training sum of euclidean distances: 145388.805989
+	 Testing sum of euclidean distances: 121584610994.0
+k = 59
+	Training sum of euclidean distances: 144179.420607
+	 Testing sum of euclidean distances: 120356599219.0
+k = 60
+	Training sum of euclidean distances: 142711.741881
+	 Testing sum of euclidean distances: 119800991331.0
+k = 61
+	Training sum of euclidean distances: 141407.685297
+	 Testing sum of euclidean distances: 118657064868.0
+k = 61
+	Training sum of euclidean distances: 140912.805997
+	 Testing sum of euclidean distances: 119817790932.0
+k = 62
+	Training sum of euclidean distances: 139730.24763
+	 Testing sum of euclidean distances: 119053423616.0
+k = 63
+	Training sum of euclidean distances: 138441.343205
+	 Testing sum of euclidean distances: 118383631140.0
+k = 64
+	Training sum of euclidean distances: 136772.531475
+	 Testing sum of euclidean distances: 114195941810.0
+k = 65
+	Training sum of euclidean distances: 136086.595931
+	 Testing sum of euclidean distances: 115386206164.0
+k = 66
+	Training sum of euclidean distances: 134658.512478
+	 Testing sum of euclidean distances: 114093030936.0
+k = 67
+	Training sum of euclidean distances: 133527.462692
+	 Testing sum of euclidean distances: 112861444320.0
+k = 68
+	Training sum of euclidean distances: 132039.318302
+	 Testing sum of euclidean distances: 111137132970.0
+k = 69
+	Training sum of euclidean distances: 131105.551034
+	 Testing sum of euclidean distances: 109865044632.0
+k = 70
+	Training sum of euclidean distances: 129627.726005
+	 Testing sum of euclidean distances: 111537907231.0
+k = 71
+	Training sum of euclidean distances: 128538.244381
+	 Testing sum of euclidean distances: 109063948340.0
+k = 72
+	Training sum of euclidean distances: 127495.014264
+	 Testing sum of euclidean distances: 108062464346.0
+k = 73
+	Training sum of euclidean distances: 126337.881814
+	 Testing sum of euclidean distances: 109084197907.0
+k = 74
+	Training sum of euclidean distances: 125554.825655
+	 Testing sum of euclidean distances: 105465201556.0
+k = 75
+	Training sum of euclidean distances: 124603.844335
+	 Testing sum of euclidean distances: 105674135463.0
+k = 76
+	Training sum of euclidean distances: 122894.728587
+	 Testing sum of euclidean distances: 105977547217.0
+k = 77
+	Training sum of euclidean distances: 122667.990228
+	 Testing sum of euclidean distances: 105224321492.0
+k = 78
+	Training sum of euclidean distances: 121546.583434
+	 Testing sum of euclidean distances: 102991987856.0
+k = 79
+	Training sum of euclidean distances: 120686.119418
+	 Testing sum of euclidean distances: 103771486574.0
+k = 80
+	Training sum of euclidean distances: 119497.194252
+	 Testing sum of euclidean distances: 101854941505.0
+k = 81
+	Training sum of euclidean distances: 118731.693672
+	 Testing sum of euclidean distances: 98809926566.8
+k = 82
+	Training sum of euclidean distances: 118012.167419
+	 Testing sum of euclidean distances: 100534127109.0
+k = 83
+	Training sum of euclidean distances: 117446.651902
+	 Testing sum of euclidean distances: 101230925841.0
+k = 84
+	Training sum of euclidean distances: 116387.735858
+	 Testing sum of euclidean distances: 99712132021.7
+k = 85
+	Training sum of euclidean distances: 115631.051841
+	 Testing sum of euclidean distances: 101778361711.0
+k = 86
+	Training sum of euclidean distances: 114658.914378
+	 Testing sum of euclidean distances: 98710208960.8
+k = 87
+	Training sum of euclidean distances: 113881.145675
+	 Testing sum of euclidean distances: 98204783893.1
+k = 88
+	Training sum of euclidean distances: 113573.14145
+	 Testing sum of euclidean distances: 97920857884.2
+k = 89
+	Training sum of euclidean distances: 112035.351417
+	 Testing sum of euclidean distances: 97559324996.0
+k = 90
+	Training sum of euclidean distances: 111498.493627
+	 Testing sum of euclidean distances: 94724632356.6

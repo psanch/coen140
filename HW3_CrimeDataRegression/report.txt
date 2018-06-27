@@ -1,0 +1,23 @@
+Pedro Sanchez
+
+#1 (train/test)
+
+My training and testing errors look correct as test>train.
+
+#2 (test)
+
+I believe I picked the minimum average MSE generated for all lambda after cross validation
+However after discussing with peers I became aware that my result is an anomaly, but I cannot determine the source of the problem that is giving me different error values for lambdas.
+
+#3 (train/test)
+
+My training error is very similar to the #1 training error
+However my testing error is too small. I believe this is due to my implementation of GD.
+
+#4 (test)
+
+My testing error is once again too small as per the results of my classmates. 
+
+--
+
+I can't help but feel as if I messed up some detail in { GDL, lossFunction} or perhaps elsewhere that is propagating through to mess up my calculations when they involve GD. 
